@@ -2,6 +2,10 @@
 
 The Dice Game is a simple web-based game where two dice are rolled, and random numbers are generated for each die. The game provides a fun and interactive way to simulate rolling dice. I made this game when I was in College in one of my programming classes.
 
+## Demo
+
+A live demo of the Dice Game can be found https://codepen.io/amcodes/full/RwqjzVQf.
+
 ## Features
 
 - Click the "Roll Dice" button to start the game.
@@ -24,15 +28,6 @@ To run the Dice Game locally, follow these steps:
 2. Open `index.html` in your web browser.
 
 3. Click the "Roll Dice" button to simulate rolling the dice.
-
-## Screenshots
-
-![Screenshot 1](insert-screenshot-url)
-![Screenshot 2](insert-screenshot-url)
-
-## Demo
-
-A live demo of the Dice Game can be found https://codepen.io/amcodes/full/RwqjzVQ.
 
 ## License
 
