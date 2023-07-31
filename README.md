@@ -4,7 +4,7 @@ The Dice Game is a simple web-based game where two dice are rolled, and random n
 
 ## Demo
 
-A live demo of the Dice Game can be found https://codepen.io/amcodes/full/RwqjzVQ.
+A live demo of the Dice Game can be found https://codepen.io/amcodes/full/RwqjzVQ. https://acabrerafondeur.github.io/Dice-Game/
 
 ## Features
 
